@@ -1,0 +1,1 @@
+Car.sprite_index = arbuz;
