@@ -1,2 +1,2 @@
 draw_self();
-draw_sprite_ext(printer, 0, x, y, 0.5, 0.5, 0, -1, 1);
+draw_sprite_ext(Cars, 0, x, y, 0.2, 0.2, 0, -1, 1);
