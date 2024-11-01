@@ -1,2 +1,2 @@
 draw_self();
-draw_text(x+20, y+10, "Arbuz Mobil");
+draw_text(x+30, y+20, "Arbuz Mobil");
