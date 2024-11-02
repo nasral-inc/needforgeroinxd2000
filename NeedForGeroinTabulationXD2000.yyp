@@ -40,7 +40,11 @@
     {"id":{"name":"obj_button_printer","path":"objects/obj_button_printer/obj_button_printer.yy",},},
     {"id":{"name":"obj_button_shkoda","path":"objects/obj_button_shkoda/obj_button_shkoda.yy",},},
     {"id":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_menu_close_sockets","path":"objects/obj_menu_close_sockets/obj_menu_close_sockets.yy",},},
+    {"id":{"name":"obj_menu_connect","path":"objects/obj_menu_connect/obj_menu_connect.yy",},},
+    {"id":{"name":"obj_menu_create","path":"objects/obj_menu_create/obj_menu_create.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_cars","path":"sprites/spr_cars/spr_cars.yy",},},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},},
@@ -49,7 +53,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
