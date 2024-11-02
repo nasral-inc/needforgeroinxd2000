@@ -1,1 +1,0 @@
-Car.image_index = 1;

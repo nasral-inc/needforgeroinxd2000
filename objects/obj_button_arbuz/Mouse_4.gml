@@ -1,0 +1,1 @@
+obj_car.image_index = 3;
