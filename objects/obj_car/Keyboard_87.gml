@@ -1,1 +1,1 @@
-y = y-1;
+y -= car_speed;
