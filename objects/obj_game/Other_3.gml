@@ -1,1 +1,1 @@
-network_destroy(sock);
+network_destroy(client);
