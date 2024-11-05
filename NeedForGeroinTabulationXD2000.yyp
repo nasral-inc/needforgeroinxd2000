@@ -46,6 +46,7 @@
     {"id":{"name":"spr_cars2","path":"sprites/spr_cars2/spr_cars2.yy",},},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},},
     {"id":{"name":"spr_map","path":"sprites/spr_map/spr_map.yy",},},
+    {"id":{"name":"spr_nasral","path":"sprites/spr_nasral/spr_nasral.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
