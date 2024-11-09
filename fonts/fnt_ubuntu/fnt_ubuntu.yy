@@ -130,7 +130,7 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"test ттт",
+  "sampleText":"зззззддддд",
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Regular",

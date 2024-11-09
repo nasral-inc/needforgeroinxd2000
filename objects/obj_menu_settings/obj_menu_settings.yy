@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu_play",
+  "%Name":"obj_menu_settings",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_menu_play",
+  "name":"obj_menu_settings",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"src_menu_button_play",
-    "path":"sprites/src_menu_button_play/src_menu_button_play.yy",
+    "name":"src_menu_button_settings",
+    "path":"sprites/src_menu_button_settings/src_menu_button_settings.yy",
   },
   "spriteMaskId":null,
   "visible":true,
