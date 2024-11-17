@@ -43,6 +43,7 @@
     {"id":{"name":"obj_button_shkoda","path":"objects/obj_button_shkoda/obj_button_shkoda.yy",},},
     {"id":{"name":"obj_car_preview","path":"objects/obj_car_preview/obj_car_preview.yy",},},
     {"id":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},},
+    {"id":{"name":"obj_credits","path":"objects/obj_credits/obj_credits.yy",},},
     {"id":{"name":"obj_logo","path":"objects/obj_logo/obj_logo.yy",},},
     {"id":{"name":"obj_menu_play","path":"objects/obj_menu_play/obj_menu_play.yy",},},
     {"id":{"name":"obj_menu_quit","path":"objects/obj_menu_quit/obj_menu_quit.yy",},},
