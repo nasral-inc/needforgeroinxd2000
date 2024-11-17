@@ -64,6 +64,7 @@
     {"id":{"name":"spr_buttonbg","path":"sprites/spr_buttonbg/spr_buttonbg.yy",},},
     {"id":{"name":"spr_cars","path":"sprites/spr_cars/spr_cars.yy",},},
     {"id":{"name":"spr_cars2","path":"sprites/spr_cars2/spr_cars2.yy",},},
+    {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},},
     {"id":{"name":"spr_map","path":"sprites/spr_map/spr_map.yy",},},
     {"id":{"name":"spr_nasral","path":"sprites/spr_nasral/spr_nasral.yy",},},
